@@ -13,7 +13,7 @@ The repo is based on [RankSortLoss](https://github.com/kemaloksuz/RankSortLoss) 
 
 ## Model, weights
 
-You need download model, mmcv and weights for server through [Link](https://drive.google.com/drive/folders/1EDSel5pZkl9dAGZWgiU6TLue7RydhqI_?usp=sharing)
+You need download model, mmcv and weights for server through [Link](https://drive.google.com/drive/folders/1EDSel5pZkl9dAGZWgiU6TLue7RydhqI_?usp=sharing) and pass it into this folder.
 
 ## Introduction
 
