@@ -10,7 +10,7 @@ Contact us: [UIT-Together Research Group](https://uit-together.github.io/)
 <!-- > arXiv preprint ([arXiv:2103.07733](https://arxiv.org/pdf/2103.07733.pdf)) / CVPR [Open access](https://openaccess.thecvf.com/content/CVPR2021/papers/Han_ReDet_A_Rotation-Equivariant_Detector_for_Aerial_Object_Detection_CVPR_2021_paper.pdf). -->
 
 The repo is based on [RankSortLoss](https://github.com/kemaloksuz/RankSortLoss) and [MMDetection](https://github.com/open-mmlab/mmdetection).
-
+You need download model, mmcv and weights for server through [Link](https://drive.google.com/drive/folders/1EDSel5pZkl9dAGZWgiU6TLue7RydhqI_?usp=sharing)
 
 
 ## Introduction
